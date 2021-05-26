@@ -64,6 +64,38 @@ header ul a{
     margin: 0 auto;
     text-align: center;
 }
+ .login a{
+    text-align: center;
+    background-color: #26c6da;
+    color: white;
+    line-height: 32px;
+    border-radius: 5px;
+}
+
+/*  /////////login //////////
+////////////////////////////*/
+
+.login-body{
+    background-color:#26c6da;
+}
+
+.login-header nav{
+    background-color: transparent;
+    height: 0px;
+}
+.login-card{
+    position: relative;
+    margin: 50px 250px;
+    background-color: #fff;
+}
+
+.login-logo img{
+    margin: 0 auto;
+    height: 100px;
+}
+
+/*  ///////////////////
+////////////////////////////*/
 
 .iconos-index{
     display: flex;
